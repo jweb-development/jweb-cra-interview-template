@@ -1,3 +1,8 @@
+# Hail, Coder!
+Your goal in this exercise is to build a click counter using ReactJS. Other than using the React framework, I don't care how you do it. This repo is set up to handle Typescript compilation (I think), but feel free to use vanilla JavaScript -- it's what we normally do.
+
+Below is the documentation included with Create React App:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
